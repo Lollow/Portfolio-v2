@@ -22,3 +22,7 @@
 .padded{
 	margin-bottom: 1em;
 }
+
+.pl-card--medium{
+	height: 25vh!important;
+}
